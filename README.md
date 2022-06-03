@@ -1,8 +1,10 @@
-# Nice to Meet You
+# OFLtech Technology
 
-Meet `Onkgopotse`, interested in technology enablement for the web.
+###### ***Technology Enthusiast*** | ***Embedded Systems***
 
-Tinkering embedded systems technology.
+OFLtech is interested in technology enablement for the web.
+
+Tinkering embedded systems.
 
 <!---
 ofltech/ofltech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
