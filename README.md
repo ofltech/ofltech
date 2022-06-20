@@ -1,7 +1,5 @@
-# OFLtech Technology
+# OFLenake
 
-###### ***Technology Enthusiast*** | ***Embedded Systems***
+###### ***Technology Enthusiast***
 
-OFLtech is interested in technology enablement for the web.
-
-Tinkering embedded systems.
+Interests in tech enablement for the web.
