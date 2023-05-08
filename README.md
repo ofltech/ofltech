@@ -1,5 +1,5 @@
-# OFLenake
+# ofltech
 
 ###### ***Technology Enthusiast***
 
-Interests in tech enablement for the web.
+Technology enthusiasm for web enablement.
